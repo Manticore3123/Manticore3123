@@ -27,7 +27,7 @@ C++ • Java • Python • Data Structures & Algorithms • MySQL • MongoDB �
 ### 🧩 Projects
 - **Room Allotment System** — Web app to manage room availability and assignments. Built with React (frontend) and core data structures in C++.
   - Repo: https://github.com/Manticore3123/Internship-Project
-- **Company Profile Scraper (ongoing)** — Multi-agent scraper to collect and clean public company data using Python, Selenium, and NLP tooling.
+- **Company Profile Scraper (ongoing)** — Multi-agent scraper to collect and clean public company data using Python, Selenium, and NLP tooling. Includes multiple features such as company compatibility analysis, company wise interview prep , dynamic career roadmap ,skill gap analysis and continuous self assesmnet and improvement. 
 
 ### 🏆 Achievements & Activities
 - 150+ DSA problems solved on LeetCode
@@ -37,16 +37,19 @@ C++ • Java • Python • Data Structures & Algorithms • MySQL • MongoDB �
 
 ### 📈 LeetCode & GitHub Stats
 <!-- GitHub stats cards (they render via external services when used on GitHub) -->
+
 <div align="center">
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=Manticore3123" alt="GitHub Streak" height="150"/>
+<!-- LeetCode Stats -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Manticore03?ext=contest)](https://leetcode.com/u/Manticore03/)
+
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Manticore3123&show_icons=true" alt="GitHub Stats" height="150"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manticore3123&show_icons=true)](https://github.com/Manticore3123)
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manticore3123&layout=compact" alt="Top Languages" height="150"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manticore3123&layout=compact)](https://github.com/Manticore3123)
+
 
 </div>
 
